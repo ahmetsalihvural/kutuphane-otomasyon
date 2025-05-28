@@ -94,7 +94,7 @@ Modern ve kullanıcı dostu bir Windows Forms kütüphane yönetim uygulaması. 
 
 ### 1. Projeyi İndirin
 ```bash
-git clone https://github.com/vjuenx/library-system.git
+git clone https://github.com/ahmetsalihvural/kutuphane-otomasyon.git
 cd library-system
 ```
 
@@ -339,7 +339,7 @@ Giriş yaptıktan sonra ana menüde şu seçenekler bulunur:
 ## 📞 İletişim
 
 - **Email**: library@example.com
-- **GitHub**: [vjuenx/library-system](https://github.com/vjuenx/library-system)
+- **GitHub**: [ahmetsalihvural/kutuphane-otomasyon](https://github.com/ahmetsalihvural/kutuphane-otomasyon)
 
 ## 📄 Lisans
 
